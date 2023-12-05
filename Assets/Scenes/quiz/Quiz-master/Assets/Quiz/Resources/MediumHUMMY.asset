@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f611d797432e3f846885b2b12fde5f35, type: 3}
+  m_Name: MediumHUMMY
+  m_EditorClassIdentifier: 
+  categoryName: Medium
+  questions:
+  - questionInfo: Berdasarkan definisi geografis, pulau mana yang juga dianggap sebagai
+      benua?
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Madagaskar
+    - Jawa
+    - Kalimantan
+    - Sumatera
+    correctAns: Madagaskar
+  - questionInfo: 'Bagaimana letak geografis dapat memengaruhi iklim suatu wilayah?
+      Berikut yang salah:'
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Letak dekat dengan laut dapat mengakibatkan iklim lebih lembap.
+    - Letak dekat dengan khatulistiwa selalu mengakibatkan cuaca panas.
+    - Letak dekat dengan pegunungan dapat mengakibatkan iklim yang lebih sejuk.
+    - Jarak dari garis lintang tidak berpengaruh pada iklim.
+    correctAns: Jarak dari garis lintang tidak berpengaruh pada iklim.
+  - questionInfo: Apa nama lapisan atmosfer yang paling dekat dengan permukaan Bumi?
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Troposfer
+    - Stratosfer
+    - Mesosfer
+    - 'Termosfer '
+    correctAns: Troposfer
+  - questionInfo: Siapa ilmuwan yang merumuskan hukum gravitasi universal dan terkenal
+      dengan apel jatuhnya?
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Albert Einstein
+    - Isaac Newton
+    - Galileo Galilei
+    - Stephen Hawking
+    correctAns: Isaac Newton
+  - questionInfo: ' Luas Benua Amerika mencapai '
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - 41.057.100 km2
+    - 42.057.100 km2
+    - 44.057.100 km2
+    - 45.057.100 km2
+    correctAns: 42.057.100 km2

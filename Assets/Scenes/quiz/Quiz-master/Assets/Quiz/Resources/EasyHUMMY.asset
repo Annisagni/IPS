@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f611d797432e3f846885b2b12fde5f35, type: 3}
+  m_Name: EasyHUMMY
+  m_EditorClassIdentifier: 
+  categoryName: Easy
+  questions:
+  - questionInfo: Benua terbesar di dunia berdasarkan luas daratan adalah?
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Amerika
+    - Asia
+    - Afrika
+    - Eropa
+    correctAns: Asia
+  - questionInfo: Benua mana yang terletak di sebelah utara Samudra Hindia?
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Amerika Utara
+    - Asia
+    - Australia
+    - ' Amerika Selatan'
+    correctAns: Asia
+  - questionInfo: Apa benua yang dijuluki "Benua Hijau"?
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Asia
+    - Eropa
+    - Amerika Utara
+    - Afrika
+    correctAns: Afrika
+  - questionInfo: Sungai Amazon terletak di benua mana?
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Amerika Utara
+    - Amerika Selatan
+    - Afrika
+    - Asia
+    correctAns: Amerika Selatan
+  - questionInfo: Gunung tertinggi di dunia, Everest, terletak di rantai pegunungan
+      apa?
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Pegunungan Andes
+    - Pegunungan Rocky
+    - Pegunungan Alps
+    - Pegunungan Himalaya
+    correctAns: Pegunungan Himalaya
